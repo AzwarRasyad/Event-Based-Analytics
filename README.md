@@ -6,7 +6,7 @@ You work at a startup that sells food products. You need to find out the behavio
 
 First of all, try to study the sales funnel first. Find the path that the user must follow to reach the purchase stage. How many users actually make it to the purchase stage? How many users got stuck in the previous stages? At what stage exactly did this happen?
 
-Then, have a look at the results of the A/A/B testing (Read on for more information about A/A/B testing). The web designer team wanted to change the font for the entire app, but the product manager was worried that users would find the new design distracting. They also decided to make a decision based on the results of A/A/B testing.
+Then, have a look at the results of the A/A/B testing. The web designer team wanted to change the font for the entire app, but the product manager was worried that users would find the new design distracting. They also decided to make a decision based on the results of A/A/B testing.
 
 The users were divided into three groups: two control groups were shown with the old font version and one test group was shown with the latest font version. Your job is to find out which font will give you the best results.
 
